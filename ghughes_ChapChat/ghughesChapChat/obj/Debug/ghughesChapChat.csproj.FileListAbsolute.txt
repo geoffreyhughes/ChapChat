@@ -1,0 +1,68 @@
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\bin\Debug\ghughesChapChat.exe.config
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\bin\Debug\ghughesChapChat.exe
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\bin\Debug\ghughesChapChat.pdb
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Debug\ghughesChapChat.ChatForm.resources
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Debug\ghughesChapChat.Form2.resources
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Debug\ghughesChapChat.Properties.Resources.resources
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.GenerateResource.Cache
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Debug\ghughesChapChat.exe
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Debug\ghughesChapChat.pdb
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\bin\Debug\ghughesChapChat.exe.config
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.exe
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.pdb
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.csprojResolveAssemblyReference.cache
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.ChatForm.resources
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.Form2.resources
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.Properties.Resources.resources
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.GenerateResource.Cache
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\bin\Debug\ghughesChapChat.exe
+C:\Users\ghughes\Downloads\ghughes_ChapChat_Part1\ghughesChapChat\bin\Debug\ghughesChapChat.pdb
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\bin\Debug\ghughesChapChat.exe.config
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.exe
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.pdb
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\bin\Debug\ghughesChapChat.exe
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\bin\Debug\ghughesChapChat.pdb
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.csprojResolveAssemblyReference.cache
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.ChatForm.resources
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.Form2.resources
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.Properties.Resources.resources
+C:\Users\Geoffrey Hughes\Desktop\Visual Programming Stuff\ghughes_ChapChat_Part1 (1)\ghughes_ChapChat_Part1\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.GenerateResource.Cache
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csprojResolveAssemblyReference.cache
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.ChatForm.resources
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.LoginForm.resources
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.Properties.Resources.resources
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.GenerateResource.cache
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.CoreCompileInputs.cache
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.exe
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.pdb
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\bin\Debug\ghughesChapChat.exe.config
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\bin\Debug\ghughesChapChat.exe
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\bin\Debug\ghughesChapChat.pdb
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\bin\Debug\ChapNet.dll
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_Part2\ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.CopyComplete
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.csprojResolveAssemblyReference.cache
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.ChatForm.resources
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.LoginForm.resources
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.Properties.Resources.resources
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.GenerateResource.cache
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.CoreCompileInputs.cache
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.exe
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.pdb
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\bin\Debug\ghughesChapChat.exe.config
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\bin\Debug\ghughesChapChat.exe
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\bin\Debug\ghughesChapChat.pdb
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\bin\Debug\ChapNet.dll
+C:\Users\geoffrey\OneDrive - Chapman University\Visual Programming\ChapChat_MAIN\ChapChat_GeoffreyHughes\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.CopyComplete
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\bin\Debug\ghughesChapChat.exe.config
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\bin\Debug\ghughesChapChat.exe
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\bin\Debug\ghughesChapChat.pdb
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\bin\Debug\ChapNet.dll
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.ChatForm.resources
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.LoginForm.resources
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.Properties.Resources.resources
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.csproj.CopyComplete
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.exe
+\\Mac\Home\Desktop\Visual Studio Projects\ghughes_ChapChat_Part2\ghughes_ChapChat_Part2\ghughesChapChat\obj\Debug\ghughesChapChat.pdb

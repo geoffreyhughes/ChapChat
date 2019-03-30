@@ -1,0 +1,10 @@
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\bin\Release\ghughesChapChat.exe.config
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Release\ghughesChapChat.csprojResolveAssemblyReference.cache
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Release\ghughesChapChat.ChatForm.resources
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Release\ghughesChapChat.Form2.resources
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Release\ghughesChapChat.Properties.Resources.resources
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Release\ghughesChapChat.csproj.GenerateResource.Cache
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\bin\Release\ghughesChapChat.exe
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\bin\Release\ghughesChapChat.pdb
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Release\ghughesChapChat.exe
+C:\Users\ghughes\Downloads\ghughesChapChatProj\ghughesChapChat\obj\Release\ghughesChapChat.pdb
